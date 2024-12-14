@@ -2,3 +2,4 @@
 
 - TypeScript
 - Qwik
+- animejs
