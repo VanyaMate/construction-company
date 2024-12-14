@@ -1,0 +1,13 @@
+:root body.dark {
+    --bg-main            : var(--black);
+    --bg-second          : var(--black-light);
+    --primary-color      : var(--orange);
+    --on-primary-color   : var(--white);
+    --text-main-color    : var(--white);
+    --text-second-color  : var(--white-dark);
+    --border-color       : var(--gray-dark);
+    --border-light-color : var(--gray);
+
+    background           : rgba(var(--bg-main));
+    color                : rgba(var(--text-main-color));
+}

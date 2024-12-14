@@ -1,0 +1,14 @@
+:root {
+    --offset-extra-small : .5rem;
+    --offset-small       : .75rem;
+    --offset-medium      : 1rem;
+    --offset-large       : 1.5rem;
+
+    --font-size-xs       : .5rem;
+    --font-size-s        : .75rem;
+    --font-size-m        : 1rem;
+    --font-size-l        : 1.25rem;
+    --font-size-xl       : 1.50rem;
+    --font-size-xxl      : 1.75rem;
+    --font-size-xxxl     : 2rem;
+}

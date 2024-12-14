@@ -1,0 +1,16 @@
+@import "./vars/sizes.css";
+@import "./vars/palette.css";
+@import "./vars/transition.css";
+@import "vars/components-sizes.css";
+@import "./themes/dark.theme.css";
+
+* {
+    margin      : 0;
+    padding     : 0;
+    box-sizing  : border-box;
+    font-family : Consolas, monospace;
+}
+
+html {
+    font-size : 20px;
+}

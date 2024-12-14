@@ -1,0 +1,14 @@
+.container {
+    color           : rgba(var(--text-main-color));
+    text-decoration : none;
+    border-bottom   : 1px solid transparent;
+    transition      : var(--transition-fast);
+
+    &.isActive {
+        border-bottom : 1px solid rgba(var(--border-light-color));
+    }
+
+    &:hover {
+        border-bottom : 1px solid rgba(var(--border-color));
+    }
+}

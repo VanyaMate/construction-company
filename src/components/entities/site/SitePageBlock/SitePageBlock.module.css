@@ -1,0 +1,12 @@
+.container {
+    background : rgba(var(--bg-main));
+    padding    : var(--offset-small);
+
+    &.second {
+        background : rgba(var(--bg-second));
+    }
+
+    &.pageHeight {
+        min-height : 100dvh;
+    }
+}
